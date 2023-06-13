@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Sancho]
+
+[HKEY_CLASSES_ROOT\Sancho\CLSID]
+@="{F55FDC6C-814C-4717-AF91-617F9A4E3EFD}"

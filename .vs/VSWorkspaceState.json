@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\source",
+    "\\Client\\source\\lib",
+    "\\Client\\vbs",
+    "\\reg",
+    "\\Server",
+    "\\Server2",
+    "\\Server2\\source",
+    "\\Server\\source"
+  ],
+  "SelectedNode": "\\Client\\source\\Client.cpp",
+  "PreviewInSolutionExplorer": false
+}
